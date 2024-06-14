@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+}
+.contactlist {    
+    ul {
+        list-style-type: none;
+        li {
+            margin: 2px;
+            padding: 15px;
+            background-color: #80808078;
+        }
+    }
+}
+
+.chat{
+    display: grid;
+    padding: 20px;
+    .sendBtn {
+        margin-top: 10px;
+    }
+}
