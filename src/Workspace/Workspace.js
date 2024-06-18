@@ -11,10 +11,12 @@ function Workspace() {
           </li>
           <li>
             <Link to="/usereducer">UseReducer</Link>
-          </li>       
+          </li>
+          <li>
+            <Link to="/redux">Redux</Link>
+          </li>    
         </ul>
       </nav>
-
     </div>
   )
 }
